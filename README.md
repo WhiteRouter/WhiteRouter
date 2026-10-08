@@ -1,16 +1,15 @@
-## Hi there 👋
+# WhiteRouter
 
-<!--
-**WhiteRouter/WhiteRouter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一个轻盈、透明的动态路由中枢。WhiteRouter 以「白」为设计原点，用最简的规则连接复杂世界。
 
-Here are some ideas to get you started:
+## 即刻链接
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+WhiteRouter 
+
+## 特性
+
+- **轻量**：核心体积小，零冗余依赖
+- **动态**：路由与页面按需生成，无需预编译
+- **纯净**：规则透明，配置即文档
+
+白，是容纳万物的底色；WhiteRouter，是连接一切的最短路径。
